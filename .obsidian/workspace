@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "1b06a64032e70298",
+    "type": "split",
+    "children": [
+      {
+        "id": "434a19ed34e59c8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Multi-Layer Perceptron.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7b04c8648a331c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "294583ea07c92763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011d881a10a3db60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffe6600ed799e668",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac39576c3c328106",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1dba6ee10fa9a786",
+    "type": "split",
+    "children": [
+      {
+        "id": "c961e0dde7531db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd69562b98082cc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Multi-Layer Perceptron.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ade5b8ab2f8e6e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Multi-Layer Perceptron.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e2764e4b0bdd309",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b91acaa9352d90a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Multi-Layer Perceptron.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "434a19ed34e59c8a",
+  "lastOpenFiles": [
+    "Back Propagation.md",
+    "Forward Propagation.md",
+    "L2 Regularization.md",
+    "Overfitting.md"
+  ]
+}
