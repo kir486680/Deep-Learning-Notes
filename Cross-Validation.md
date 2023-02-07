@@ -1,0 +1,8 @@
+
+K-fold cross-validation is a technique for evaluating the performance of machine learning models by splitting the available data into K folds, where K-1 folds are used for training and 1 fold is used for validation. This process is repeated K times, with each fold used as the validation set once, and the average performance across the K iterations is used as the final performance estimate.
+
+The intuition behind K-fold cross-validation is to maximize the use of the limited data available for training and evaluation while still providing a robust estimate of the model performance. By using different folds for validation in each iteration, the model is trained and evaluated on different subsets of the data, providing a better representation of the model's performance on unseen data.
+
+For example, in a 5-fold cross-validation, the data is split into 5 folds of roughly equal size. In the first iteration, the first fold is used as the validation set, and the other 4 folds are used for training. In the second iteration, the second fold is used as the validation set, and the other 4 folds are used for training. This process is repeated until all folds have been used as the validation set once. The average performance across the 5 iterations is then used as the final performance estimate.
+
+K-fold cross-validation provides a more robust estimate of the model performance than a simple train-validation split, especially when the data is limited. It also helps to address the problem of overfitting by using different subsets of the data for training and validation. However, it can be computationally more expensive than a simple train-validation split, as the model must be trained K times.

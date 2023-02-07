@@ -1,0 +1,3 @@
+The test dataset is used to evaluate the performance of the trained model and provide an estimate of how well it will generalize to unseen data. This dataset should be independent of the training dataset and should not be used for any other purposes during the model development process.
+
+The test dataset is usually of similar size or slightly smaller than the validation dataset, again typically in the range of 5-20% of the training data. The purpose of the test dataset is to provide an independent evaluation of the final model, so it should not be used during the model development process.

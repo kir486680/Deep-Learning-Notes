@@ -11,3 +11,5 @@ The L2 regularization term in the formula,can be understood as follows:
     
 
 In summary, the L2 regularization term adds a penalty to the loss function that is proportional to the magnitude of the weights in the network. The term helps to prevent [[Overfitting]] by discouraging the model from having large weights.
+
+Pytorch decays weight and biases simoultaneously 

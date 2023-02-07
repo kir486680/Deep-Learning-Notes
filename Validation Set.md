@@ -1,0 +1,4 @@
+
+The validation dataset, on the other hand, is used to tune the hyperparameters of the model, such as learning rate, regularization strength, and network architecture. The validation dataset is used to evaluate different model configurations during the training process and helps to prevent overfitting to the training data by ensuring that the model is not too complex.
+
+Typically, the validation dataset is smaller than the training dataset and is usually in the range of 5-20% of the training data. This allows for a reasonable amount of data to be used for evaluating different model configurations and tuning the hyperparameters, while still having a large enough training dataset to learn from.

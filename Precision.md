@@ -1,0 +1,1 @@
+Precision: Precision is a metric that measures the fraction of positive predictions that are actually correct. It is defined as the number of true positive predictions divided by the total number of positive predictions made by the model. In object detection, a true positive is a prediction that matches a ground truth object with a sufficient IoU.

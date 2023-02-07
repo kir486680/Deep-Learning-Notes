@@ -1,0 +1,2 @@
+
+mAP (mean average precision): The mAP score provides an overall measure of the model's performance in detecting objects. The value of mAP is calculated by averaging the precision score across multiple class-specific precision-recall curves. The @0.5 in "mAP@0.5" refers to the IoU (intersection over union) threshold used to determine a match between predicted and ground truth bounding boxes. A higher mAP score indicates better overall object detection performance.

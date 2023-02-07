@@ -1,0 +1,2 @@
+
+Recall: Recall is a metric that measures the fraction of actual positive examples that were correctly detected by the model. It is defined as the number of true positive predictions divided by the total number of actual positive examples in the data. In object detection, recall is an indicator of the model's ability to find all the objects in an image.
