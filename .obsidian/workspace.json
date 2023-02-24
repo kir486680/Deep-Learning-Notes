@@ -313,14 +313,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Adaboost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6f107d024b6b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multivariate Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1063e212fdcada31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -386,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolutional Neural Network.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -447,17 +471,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d83d165aeef95c9",
+  "active": "1063e212fdcada31",
   "lastOpenFiles": [
+    "Multivariate Analysis.md",
+    "Adaboost.md",
     "Convolution Layer.md",
     "Convolutional Neural Network.md",
-    "Pooling Layer.md",
-    "Activation Layer.md",
-    "Adaboost.md",
-    "Boosting Techniques.md",
-    "Haar Cascade Classifier.md",
+    "Classification.md",
     "YOLOV7.md",
+    "YOLO.md",
     "Weight Quantization.md",
-    "Recall.md"
+    "Statistics Basics.md",
+    "Squared Error.md"
   ]
 }
