@@ -371,12 +371,8 @@
             "id": "3bbb0f4e1e2eb477",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -409,7 +405,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Classification",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -426,7 +422,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -446,7 +443,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +459,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -485,9 +480,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Logistic Regression.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -509,15 +502,15 @@
   },
   "active": "3bbb0f4e1e2eb477",
   "lastOpenFiles": [
+    "Classification.md",
+    "Regression.md",
+    "L2 Norm.md",
+    "L2 Regularization.md",
+    "Block-Circular Matrices.md",
+    "Statistics Basics.md",
+    "Logistic Regression.md",
     "Loss Function.md",
     "Minibatch Stochastic Gradient Descent.md",
-    "Optimization Algorithm.md",
-    "Linear Regression.md",
-    "Logistic Regression.md",
-    "Sigmoid.md",
-    "Stratification.md",
-    "Heterogeneity.md",
-    "Homogeneity.md",
-    "Pearson Correleation.md"
+    "Optimization Algorithm.md"
   ]
 }

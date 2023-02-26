@@ -1,0 +1,1 @@
+[[Logistic Regression]] - Logistic regression, despite its name, is **a classification model** rather than regression model. Logistic regression is a simple and more efficient method for binary and linear classification problems.
