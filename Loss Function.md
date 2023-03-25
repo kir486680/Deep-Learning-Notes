@@ -27,3 +27,9 @@ The above two functions can be compressed into a single function i.e.
 ![](https://miro.medium.com/max/1400/1*_52kKSp8zWgVTNtnE2eYrg.png)
 
 
+Also, there are options such as 
+- [[Mean Absolute Error (MAE)]]
+- [[Mean Absolute Percentage Error (MAPE)]]
+- [[Root Mean Squared Error (RMSE)]]
+
+

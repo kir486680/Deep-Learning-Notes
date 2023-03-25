@@ -157,8 +157,7 @@
                 "viewState": {
                   "x": 0,
                   "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
+                  "zoom": 0
                 }
               }
             }
@@ -371,12 +370,62 @@
             "id": "3bbb0f4e1e2eb477",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Squared Error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86a8e0adf0a0bfe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean Absolute Error (MAE).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bbea3cf287c5947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean Absolute Error (MAE).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e76c95459166ce7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean Absolute Error (MAE).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "777dc11418d62e8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -405,7 +454,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Classification",
+                "query": "Regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -422,8 +471,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -443,6 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mean Absolute Error (MAE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -459,6 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mean Absolute Error (MAE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -480,7 +530,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mean Absolute Error (MAE).md"
+              }
             }
           }
         ]
@@ -500,17 +552,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bbb0f4e1e2eb477",
+  "active": "777dc11418d62e8c",
   "lastOpenFiles": [
-    "Classification.md",
-    "Regression.md",
-    "L2 Norm.md",
-    "L2 Regularization.md",
-    "Block-Circular Matrices.md",
-    "Statistics Basics.md",
-    "Logistic Regression.md",
+    "Root Mean Squared Error (RMSE).md",
     "Loss Function.md",
-    "Minibatch Stochastic Gradient Descent.md",
-    "Optimization Algorithm.md"
+    "Mean Absolute Error (MAE).md",
+    "Mean Absolute Percentage Error (MAPE).md",
+    "Linear Regression.md",
+    "Classification.md",
+    "Squared Error.md",
+    "Cross-Validation.md",
+    "Regression.md",
+    "L2 Norm.md"
   ]
 }
